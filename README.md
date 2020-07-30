@@ -1,5 +1,5 @@
-### Hi there 👋
-# I'm Bluelul.
+## Hi there 👋
+### I'm Bluelul.
 
 🌱 See more about me on [bluelul.com](https://www.bluelul.com)
 

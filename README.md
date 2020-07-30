@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm Bluelul.
-See more about me on bluelul.com
+
+See more about me on <bluelul.com>
 
 <!--
 **bluelul/bluelul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

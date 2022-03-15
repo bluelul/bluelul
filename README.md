@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I'm Bluelul.
 
-My Cheatsheet list:
+My Public Cheat Sheets:
 - [Android Cheat Sheet](https://github.com/bluelul/androidCheatSheet): Android App development cookbook from zero
 - [Docker Cheat Sheet](https://github.com/bluelul/dockerCheatSheet): Use Docker as fast as possible
 - [Ubuntu Tweek](https://github.com/bluelul/dockerCheatSheet): Tweaks that every Ubuntu/Linux user needs

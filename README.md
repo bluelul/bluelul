@@ -1,6 +1,11 @@
 ## Hi there 👋
 ### I'm Bluelul.
 
+My Cheatsheet list:
+- [Android Cheat Sheet](https://github.com/bluelul/androidCheatSheet)
+- [Docker Cheat Sheet](https://github.com/bluelul/dockerCheatSheet)
+- [Linux Tweek](https://github.com/bluelul/dockerCheatSheet)
+
 🌱 See more about me on [bluelul.com](https://www.bluelul.com)
 
 <!--

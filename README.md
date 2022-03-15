@@ -2,9 +2,9 @@
 ### I'm Bluelul.
 
 My Cheatsheet list:
-- [Android Cheat Sheet](https://github.com/bluelul/androidCheatSheet)
-- [Docker Cheat Sheet](https://github.com/bluelul/dockerCheatSheet)
-- [Ubuntu Tweek](https://github.com/bluelul/dockerCheatSheet)
+- [Android Cheat Sheet](https://github.com/bluelul/androidCheatSheet): Android App development cookbook from zero
+- [Docker Cheat Sheet](https://github.com/bluelul/dockerCheatSheet): Use Docker as fast as possible
+- [Ubuntu Tweek](https://github.com/bluelul/dockerCheatSheet): Tweaks that every Ubuntu/Linux user needs
 
 🌱 See more about me on [bluelul.com](https://www.bluelul.com)
 
